@@ -1,16 +1,80 @@
-## Hi there 👋
+# 🚀 Hi, I'm Rishi
 
-<!--
-**RishiShri13/RishiShri13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Building+AI+Tools+%26+Agents;Automation+Enthusiast;Future+Tech+Innovator" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🎓 B.Tech CSE Student
+* 🤖 Aspiring **AI Engineer**
+* 🚀 Building **AI Tools, AI Agents & Automation Systems**
+* 📚 Currently learning: **LLMs, AI Agents, Automation Frameworks**
+* 🎯 Goal: Build impactful AI products that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+`Python` | `C++` | `JavaScript`
+
+### 🤖 AI / ML
+
+`Machine Learning` | `NLP` | `Deep Learning (Basics)`
+
+### ⚙️ Tools & Tech
+
+`Git` | `GitHub` | `VS Code` | `APIs` | `Automation Tools`
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **AI Chatbot** – Smart conversational bot using NLP
+🔹 **Face Detection System** – Real-time detection using OpenCV
+🔹 **Automation Scripts** – Task automation tools
+🔹 🚧 More powerful AI projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Goals
+
+* 🚀 Building consistent projects in AI & Automation
+* 📈 Improving problem-solving & development skills
+* 🎯 Target: AI Internship / Real-world Projects
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/rishi-shrivastava-ab4432323">LinkedIn</a> •
+  <a href="mailto:rishisrivastava28@gmail.com">Email</a>
+</p>
+
+---
+
+## 🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I don’t just learn AI — I build things that **think, automate, and solve problems** 🤖
