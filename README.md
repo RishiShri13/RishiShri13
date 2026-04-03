@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Rishi
+# 🚀 Hi, I'm Rishi Shrivastava
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Building+AI+Tools+%26+Agents;Automation+Enthusiast;Future+Tech+Innovator" />
@@ -60,17 +60,15 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/rishi-shrivastava-ab4432323">LinkedIn</a> •
-  <a href="mailto:rishisrivastava28@gmail.com">Email</a>
-</p>
+LinkedIn: www.linkedin.com/in/rishi-shrivastava-ab4432323  
+Email: rishisrivastava28@gmail.com
 
 ---
 
 ## 🔥 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=RishiShri13&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
