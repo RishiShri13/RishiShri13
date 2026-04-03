@@ -34,11 +34,11 @@
 
 ## 🚀 Featured Projects
 
-🔹 🤖 [Python Trading Bot]([https://github.com/RishiShri13/your-repo-link](https://github.com/RishiShri13/Python-Developer-Trading-Bot-on-Binance-Futures-Testnet-))
-🔹 🐍 [Snake Game]([https://github.com/RishiShri13/snake-game-python](https://github.com/RishiShri13/Simple-Snake-Game-Using-Python-)) 
-🔹 🎲 [Dice Game Tournament]([https://github.com/RishiShri13/dice-game-tournament](https://github.com/RishiShri13/Multiplayer-Dice-Game)) 
-🔹 🔐 [Password Vault & Strength Analyzer]([https://github.com/RishiShri13/password-vault](https://github.com/RishiShri13/Password-Strength))
-🔹 📊 [Student Report Card Generator]([https://github.com/RishiShri13/report-card-generator](https://github.com/RishiShri13/Student-Report-Card-Generator))
+🔹 🤖 [Python Trading Bot](https://github.com/RishiShri13/Python-Developer-Trading-Bot-on-Binance-Futures-Testnet-)
+🔹 🐍 [Snake Game](https://github.com/RishiShri13/Simple-Snake-Game-Using-Python-)
+🔹 🎲 [Dice Game Tournament](https://github.com/RishiShri13/Multiplayer-Dice-Game)
+🔹 🔐 [Password Vault & Strength Analyzer](https://github.com/RishiShri13/Password-Strength)
+🔹 📊 [Student Report Card Generator](https://github.com/RishiShri13/Student-Report-Card-Generator)
 
 
 ---
