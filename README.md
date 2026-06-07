@@ -20,21 +20,29 @@
 
 ### 💻 Languages
 
-`Python` | `C++` | `JavaScript`
+`Python` | `C++` | `JavaScript` | `C` | `Java` 
 
 ### 🤖 AI / ML
 
-`Machine Learning` | `NLP` | `Deep Learning (Basics)`
+`Machine Learning` | `NLP` | `Deep Learning (Basics)` | `Artificial Intelligence` | `LLM` | `GenAI` | `RAG` | `Agentic AI`
+
+### 🧠 AI Infrastructure
+
+`N8N` | `Agno` | `MCP (Model Context Protocol)` | `API Integration` | `Automation`
+
+### 📚 Libraries
+
+`NumPy` | `Pandas` | `Hugging Face` | `TensorFlow` | `PyTorch`
 
 ### ⚙️ Tools & Tech
 
-`Git` | `GitHub` | `VS Code` | `APIs` | `Automation Tools`
+`Git` | `GitHub` | `VS Code` | `Linux/Unix` | `CLI`
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 🤖 [Python Trading Bot](https://github.com/RishiShri13/Python-Developer-Trading-Bot-on-Binance-Futures-Testnet-)
+🔹 🤖 [QuantEdge – Full-Stack Cryptocurrency Futures Trading Platform](https://github.com/RishiShri13/QuantEdge-Futures-Trading-Bot)
 🔹 🐍 [Snake Game](https://github.com/RishiShri13/Simple-Snake-Game-Using-Python-)
 🔹 🎲 [Dice Game Tournament](https://github.com/RishiShri13/Multiplayer-Dice-Game)
 🔹 🔐 [Password Vault & Strength Analyzer](https://github.com/RishiShri13/Password-Strength)
