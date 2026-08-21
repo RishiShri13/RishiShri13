@@ -42,6 +42,7 @@
 
 ## 🚀 Featured Projects
 
+🔹 ⚡ [Portfolio - ](https://github.com/RishiShri13/rishi-shrivastava-portfolio)
 🔹 🤖 [QuantEdge – Full-Stack Cryptocurrency Futures Trading Platform](https://github.com/RishiShri13/QuantEdge-Futures-Trading-Bot)
 🔹 🐍 [Snake Game](https://github.com/RishiShri13/Simple-Snake-Game-Using-Python-)
 🔹 🎲 [Dice Game Tournament](https://github.com/RishiShri13/Multiplayer-Dice-Game)
