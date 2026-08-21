@@ -52,11 +52,16 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishiShri13&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiShri13&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RishiShri13&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiShri13&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
