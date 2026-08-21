@@ -65,7 +65,7 @@
 ## 🌐 Connect With Me
 
 LinkedIn: www.linkedin.com/in/rishi-shrivastava-ab4432323  
-Email: rishisrivastava28@gmail.com
+Email: rishisrivastava28@gmail.com <br>
 Portfolio: https://rishi-shrivastava-portfolio.vercel.app
 
 ---
